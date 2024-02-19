@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige; 
+  }
+  
+  .title {
+    color: #5c4da4;
+  }
+  
+  .sec1_name_firstName,
+  .sec1_name_lastName,
+  .sec1_title {
+    color: #5c4da4;
+  }
+  
+  .description {
+    color: black;
+  }
+  
+  .edu_item,
+  .Experince,
+  .T.C,
+  .interest,
+  .contact {
+    margin-top: 20px;
+  }
+  
+  .edu_item p,
+  .Experince p,
+  .T.C p,
+  .interest p,
+  .contact p {
+    color: black;
+  }
+  
+  .T.C,
+  .interest,
+  .contact {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+  }
+  
+  .group-3 {
+    display: flex;
+    justify-content: space-between;
+  }
